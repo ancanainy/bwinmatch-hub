@@ -1,2 +1,14 @@
 # bwinmatch-hub
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
